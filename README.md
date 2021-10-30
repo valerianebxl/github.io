@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valerianebxl
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning NLP
+- 👀 I’m interested in many thing
+- 🌱 I’m currently learning NLP with python ✨
 
 <!---
 valerianebxl/valerianebxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
